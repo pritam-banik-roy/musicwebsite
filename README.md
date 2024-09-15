@@ -45,8 +45,8 @@ Contributions are welcome! If you'd like to contribute to the project, feel free
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
+## Contact
 If you have any questions or suggestions, feel free to reach out:
 
-Email: your-email@example.com
-GitHub: Your GitHub Profile
+Email: pritambanikroy@gmail.com
+GitHub: [Your GitHub Profile](https://github.com/pritam-banik-roy)
