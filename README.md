@@ -48,5 +48,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 
-Email: pritambanikroy@gmail.com
-GitHub: [Your GitHub Profile](https://github.com/pritam-banik-roy)
+1. Email: pritambanikroy@gmail.com
+2. GitHub: [PRITAM](https://github.com/pritam-banik-roy)
