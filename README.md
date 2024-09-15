@@ -1,6 +1,6 @@
 # musicwebsite
 
-Music Website 🎶
+##Music Website 🎶
 Welcome to the Music Website! This website allows users to explore different music tracks and artists. It provides an engaging and interactive platform for music lovers to discover and enjoy various genres of music.
 
 Features
@@ -43,5 +43,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Contact
 If you have any questions or suggestions, feel free to reach out:
 
-Email: your-pritambanikroy@gmail.com
-GitHub: 
+Email: pritambanikroy@gmail.com
+GitHub: https://github.com/pritam-banik-roy
